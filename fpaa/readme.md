@@ -6,11 +6,16 @@ The AN231 is a Field Programmable Analog Array (FPAA) based on a switched-capaci
 
 This project provides a simple, compact PCB that can be easily integrated into other designs. The board uses a standard form factor, and the I/O connections are kept as straightforward as possible to simplify prototyping and reuse.
 
-<p float="left">
-  <img src="Front.png" alt="Front of PCB" width="45%"/>
-  Front side
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Back.png" alt="Back of PCB" width="45%" />
-  Back side
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="front.png" alt="Front of PCB" width="45%"><br>
+      <sub>Front of the PCB</sub>
+    </td>
+    <td align="center">
+      <img src="back.png" alt="Back of PCB" width="45%"><br>
+      <sub>Back of the PCB</sub>
+    </td>
+  </tr>
+</table>
 
