@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AD8426ACPZ-WP
-D Analog Devices, AD8426ACPZ-WP AD8426ACPZ-WP, Instrumentation Amplifier, 200??V Offset, 1MHz 105dB CMRR, 2.2 ??? 36 V, 16-Pin LFCSP
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10003945.pdf
-$ENDCMP
-#
-#End Doc Library
