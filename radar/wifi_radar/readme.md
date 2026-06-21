@@ -1,11 +1,11 @@
 ## Wi‑Fi radar
 
-The goal of this project is to use Wi‑Fi signals as the illumination source for a radar-like sensing system.
+The goal of this project is to use Wi‑Fi signals as the signal source for a radar-like sensing system.
 
-The long‑term aim is to build a system that relies on ambient Wi‑Fi signals already present in the environment. Initially, however, the project will use a controlled Wi‑Fi signal that we generate ourselves to simplify testing and development.
+The long‑term aim is to build a system that relies on ambient Wi‑Fi signals already present in the environment. Initially, the project will use a controlled Wi‑Fi signal that we generate ourselves to simplify testing and development.
 
 This project will primarily focus on:
-- Readout and baseband hardware
+- Readout hardware
 - Signal acquisition
 - Signal processing and algorithms
 
