@@ -9,11 +9,11 @@ This project provides a simple, compact PCB that can be easily integrated into o
 <table>
   <tr>
     <td align="center">
-      <img src="front.png" alt="Front of PCB" width="45%"><br>
+      <img src="Front.png" alt="Front of PCB" width="45%"><br>
       <sub>Front of the PCB</sub>
     </td>
     <td align="center">
-      <img src="back.png" alt="Back of PCB" width="45%"><br>
+      <img src="Back.png" alt="Back of PCB" width="45%"><br>
       <sub>Back of the PCB</sub>
     </td>
   </tr>
